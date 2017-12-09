@@ -1,7 +1,6 @@
 {
   "name": "reactApp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "express": "^4.16.2",
@@ -16,5 +15,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucie-Choi/web.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lucie-Choi/web/issues"
+  },
+  "homepage": "https://github.com/Lucie-Choi/web#readme",
+  "description": ""
 }
